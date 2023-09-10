@@ -1,11 +1,11 @@
 # Interior Design Website Project
 
-Welcome to the Interior Design Website project! This repository contains the source code of our interior design website showcasing various services, projects,
+Welcome to the Interior Design Website project! This repository contains the source code of interior design website showcasing various services, projects,
 and contact information.
 
 ## Introduction
 
-This project is a website for our interior design company that aims to showcase our services, completed projects, and contact information to potential clients 
+This project is a website for interior design company that aims to showcase our services, completed projects, and contact information to potential clients 
 and visitors. The website is designed to be visually appealing and informative, providing visitors with an overview of the company's offerings and expertise.
 
 ## Features
